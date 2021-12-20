@@ -18,8 +18,7 @@ public class J1{
       }else if(i==2 && b!=a) {
         System.out.println("與第一次輸入的不同！");
         throw new RuntimeException("輸入三次錯誤！程式停止！");
-      }
-else System.out.println("與第一次輸入的不同！");
+      }else System.out.println("與第一次輸入的不同！");
       }
    }
 }
