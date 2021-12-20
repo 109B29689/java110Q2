@@ -33,3 +33,10 @@ public class J2{
         win.show();
     }
 }
+
+/*output-------
+color=Green
+width=5
+height=7
+area=35
+-------------*/
