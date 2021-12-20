@@ -1,4 +1,3 @@
-
 interface IArea{
     void area();
 }
